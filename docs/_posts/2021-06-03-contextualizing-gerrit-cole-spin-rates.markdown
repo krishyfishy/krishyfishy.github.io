@@ -22,7 +22,7 @@ I used Statcast data from [Baseball Savant](https://baseballsavant.mlb.com/statc
 Spoiler alert: Cole was a huge outlier compared to other pitchers named in the suit. 
 
 <p align="center">
-  <img src="/docs/media/cole-comp.jpg">
+  <img src="krishyfishy.github.io/docs/media/cole-comp.jpg">
 </p>
 
 If you want to see the full project, you can do that [here](https://github.com/krishyfishy/baseball/blob/main/spin_rate_investigation.ipynb). 
