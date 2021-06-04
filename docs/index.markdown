@@ -5,6 +5,7 @@
 layout: home
 ---
 
+![](/media/profile.jpg)
 
 Hi, I'm Krish. I recently graduated from Yale, where I studied biology, ecology, and data science. I'm passionate about using informative data and clear writing to put important insight into the hands of those who need it, from healthcare providers and policymakers to the general public.
 
