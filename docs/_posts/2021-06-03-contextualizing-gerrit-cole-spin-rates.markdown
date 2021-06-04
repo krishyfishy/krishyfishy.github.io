@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contextualizing Gerrit Cole's Spin Rates in MLB Between 2016 and 2019"
+title:  "Contextualizing Gerrit Cole's Spin Rates"
 date:   2021-06-03 21:45:56 -0400
 categories: projects
 ---
@@ -16,13 +16,13 @@ In March 2020, a longtime [Angels](https://www.mlb.com/angels) staffer named Bri
 I used Statcast data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search) to analyze and compare spin rates for Gerrit Cole with those of other pitchers named in the lawsuit. 
 
 <p align="center">
-  <img src="/media/cole-spin-rates.jpg">
+  <img src="/docs/media/cole-spin-rates.jpg">
 </p>
 
 Spoiler alert: Cole was a huge outlier compared to other pitchers named in the suit. 
 
 <p align="center">
-  <img src="/media/cole-comp.jpg">
+  <img src="/docs/media/cole-comp.jpg">
 </p>
 
 If you want to see the full project, you can do that [here](https://github.com/krishyfishy/baseball/blob/main/spin_rate_investigation.ipynb). 
