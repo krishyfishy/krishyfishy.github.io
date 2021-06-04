@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="/media/profile.png">
+  <img src="/media/profile.jpg">
 </p>
 
 Hi, I'm Krish. I recently graduated from Yale, where I studied biology, ecology, and data science. I'm passionate about using informative data and clear writing to put important insight into the hands of those who need it, from healthcare providers and policymakers to the general public.
