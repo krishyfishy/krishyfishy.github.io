@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Birds"
+date:   2021-06-03 21:45:56 -0400
+categories: projects
+---
+
+I've loved birds for as long as I can remember. In college, I had the good fortune of meeting Richard O. Prum, who helped me learn how to go 'birding.'
+
+Most people call it birdwatching, but serious birders call it birding. During the past year, I started birding more on my own, keeping track of the birds I see on [eBird](ebird.org). I even started taking photos, which has led to a whole [Instagram account](https://www.instagram.com/krishlovesbirds/).
+
+When I returned to New Haven in January, I started birding at Edgewood Park every week. Initially, I saw just the usual suspects, like this American Robin: 
+
+<p align="center">
+  <img src="/media/amro.jpg">
+</p>
+
+On an exciting winter day, I might see a Brown Creeper:
+
+<p align="center">
+  <img src="/media/brcr.jpg">
+</p>
+
+But as the weeks passed, the weather got warmer, and the greenery started coming back. So did the birds. Every spring, tiny, colorful songbirds called warblers migrate north from Central and South America, and they came to Edgewood Park.
+
+One of my first warblers of the year was this Yellow Warbler: 
+
+<p align="center">
+  <img src="/media/yewa.jpg">
+</p>
+
+A week later, I tried birding in East Rock Park, where I saw this Black-throated Blue Warbler: 
+
+<p align="center">
+  <img src="/media/blthbl.jpg">
+</p>
+
+Other lovely birds I found in East Rock this spring were a Ruby-throated Hummingbird and an Eastern Screech-Owl.
+
+<p align="center">
+  <img src="/media/ruthhu.jpg">
+</p>
+
+<p align="center">
+  <img src="/media/eascow.jpg">
+</p>
+
+As spring becomes summer, I'm looking forward to taking more pictures, and hopefully sharing them here.
