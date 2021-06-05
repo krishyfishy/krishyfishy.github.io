@@ -26,6 +26,14 @@ permalink: /work/
 * Visualized and analyzed geospatial data from varying sources, including range maps and citizen science, using `R`, `Python`, and `QGIS`
 * Compiled information on biodiversity to contribute to our understanding of nature as it faces widespread global change
 
+## Projects
+
+* [**Evaluated spin rates for pitchers across Major League Baseball**](https://github.com/krishyfishy/baseball/blob/main/spin_rate_investigation.ipynb) to assess whether pitchers may be doctoring baseballs, which would ostensibly result in spikes in their spin rates. Data came from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search), and I did the analysis in `Python`. Final project for Yale's Analysis of Baseball Data course with Prof. Ethan Meyers. 
+
+* [**Conducted a randomized experiment**](https://github.com/krishyfishy/paper-airplanes) assessing whether the addition of a paperclip to paper airplanes increases flight distances. Analyses coded in `R`. Final project for PLSC 341 with Prof. Alex Coppock.
+
+* [**Contributed to a report assessing the impacts of ALS Association funding**](https://www.als.org/sites/default/files/2020-06/RTI-Report-FINAL.pdf) following the 2014 ALS Ice Bucket Challenge during my time at RTI International.
+
 ## Leadership Experience and Extracurricular Activities
 
 **First-Year Outdoor Orientation Trips (FOOT)**, *Leader*, New Haven, CT (Jan. 2018 – May 2021)
@@ -44,14 +52,6 @@ permalink: /work/
 **Yale Herald**, *Science and Technology Editor*, New Haven, CT (January 2020 – May 2020)
 * Wrote and edited articles that capture the human element of science and technology
 * Created content and pitches for staff writers
-
-## Projects
-
-* [**Evaluated spin rates for pitchers across Major League Baseball**](https://github.com/krishyfishy/baseball/blob/main/spin_rate_investigation.ipynb) to assess whether pitchers may be doctoring baseballs, which would ostensibly result in spikes in their spin rates. Data came from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search), and I did the analysis in `Python`. Final project for Yale's Analysis of Baseball Data course with Prof. Ethan Meyers. 
-
-* [**Conducted a randomized experiment**](https://github.com/krishyfishy/paper-airplanes) assessing whether the addition of a paperclip to paper airplanes increases flight distances. Analyses coded in `R`. Final project for PLSC 341 with Prof. Alex Coppock.
-
-* [**Contributed to a report assessing the impacts of ALS Association funding**](https://www.als.org/sites/default/files/2020-06/RTI-Report-FINAL.pdf) following the 2014 ALS Ice Bucket Challenge during my time at RTI International.
 
 ## Skills
 
