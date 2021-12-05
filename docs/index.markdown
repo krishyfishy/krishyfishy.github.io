@@ -11,7 +11,7 @@ layout: page
 
 Hi, I'm Krish. I recently graduated from [Yale](https://www.yale.edu), where I studied **biology**, **ecology**, and **data science**. I'm passionate about using informative data and clear writing to put important insight into the hands of those who need it, from healthcare providers and policymakers to the general public.
 
-I'm currently a data analyst at [Icon Health](https://www.iconhealthco.com), where we're building a comprehensive care management and navigation service for people with musculoskeletal conditions and disorders.
+I'm currently a data analyst at [Icon Health](https://www.iconhealthco.com), where we're building a comprehensive care navigation and delivery service for people with musculoskeletal conditions and disorders.
 
 At [RTI International](https://www.rti.org), I worked on several projects, including a [report](https://www.als.org/sites/default/files/2020-06/RTI-Report-FINAL.pdf) evaluating the impacts of [ALS Association](https://www.als.org) funding following the 2014 [ALS Ice Bucket Challenge](https://www.als.org/stories-news/ice-bucket-challenge-dramatically-accelerated-fight-against-als), a [dashboard](https://www.rti.org/rti-press-publication/interactive-visualization) for visualizing longitudinal survey data and paradata, and an assessment of value-based purchasing uptake in eleven states.
 
