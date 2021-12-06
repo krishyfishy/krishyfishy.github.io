@@ -6,6 +6,8 @@ permalink: /work/
 
 ## Work Experience
 
+**Icon Health**, *Data Analyst*, San Francisco, CA (July 2021 – Present)
+
 **RTI International**, *Health Policy Analyst*, Waltham, MA (May 2020 – September 2020)
 * *Statistics and Health Policy Intern*, (May 2019 – September 2019)
 * Built an interactive dashboard using `R` and `R Shiny` for visualizing longitudinal survey data and paradata 
