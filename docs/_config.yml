@@ -21,7 +21,7 @@
 title: Krish Maypole
 email: krish.maypole@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Krish Maypole's personal website.
+  healthcare, data, and birds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: krishmaypole
