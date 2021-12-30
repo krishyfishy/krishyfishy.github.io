@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-## Blogs
+### Blogs
 
 <ul>
   {% for post in site.posts %}
@@ -13,8 +13,6 @@ permalink: /writing/
     </li>
   {% endfor %}
 </ul>
-
-## Writing published elsewhere
 
 ### Icon Insights
 * [Bricks and clicks: reimagining MSK care](https://iconhealthco.com/news/msk-care-is-still-broken-icon-health-has-the-fix)
