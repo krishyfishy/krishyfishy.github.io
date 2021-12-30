@@ -17,8 +17,8 @@ permalink: /writing/
 ## Writing published elsewhere
 
 ### Icon Insights
-* [Bricks and clicks: reimagining MSK care](https://iconhealthco.com/news/msk-care-is-still-broken-icon-health-has-the-fix), *Icon Health*
-* [Where MSK Point Solutions Fall Short](https://iconhealthco.com/news/where-point-solutions-fall-short), *Icon Health*
+* [Bricks and clicks: reimagining MSK care](https://iconhealthco.com/news/msk-care-is-still-broken-icon-health-has-the-fix)
+* [Where MSK Point Solutions Fall Short](https://iconhealthco.com/news/where-point-solutions-fall-short)
 * [How MSK Navigation Can Solve the Cost-Outcomes Disconnect](https://iconhealthco.com/news/why-msk-care-requires-more-comprehensive-solutions-ysc9s)
 * [Why MSK Care Requires A More Comprehensive Solution](https://iconhealthco.com/news/why-msk-care-requires-more-comprehensive-solutions)
 
