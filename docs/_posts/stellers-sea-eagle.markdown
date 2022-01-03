@@ -18,7 +18,7 @@ Around 10:45 AM, news broke that the bird was near the wharf. It perched on the 
   <img src="/media/stse.jpg">
 </p>
 
-An incredibly generous local lobsterman named Robbie Pinkham started taking groups of birders out on the water for a glimpse of the bird. Robbie didn't charging people for a spot on the boat, but he gladly accepted tips. And people were tipping him, for sure. Rebecca and I were two of those lucky people.
+An incredibly generous local lobsterman named Robbie Pinkham started taking groups of birders out on the water for a glimpse of the bird. Robbie didn't charge people for a spot on the boat, but he gladly accepted tips. And people were tipping him, for sure. Rebecca and I were two of those lucky people.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
