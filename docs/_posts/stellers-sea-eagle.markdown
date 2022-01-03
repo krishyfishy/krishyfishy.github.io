@@ -6,6 +6,10 @@ Steller's Sea Eagles can weigh up to twenty pounds, with wingspans that can reac
 
 Around 10:45 AM, news broke that the bird was near the wharf. It perched on the southern side of Mink Island, only visible by boat. Shortly after, the eagle flew further south to Wood Island, where it sat for a couple of hours.
 
+<p align="center">
+  <img src="/media/stse.JPG">
+</p>
+
 An incredibly generous local lobsterman named Robbie Pinkham started taking groups of birders out on the water for a glimpse of the bird. Robbie didn't charging people for a spot on the boat, but he gladly accepted tips. And people were tipping him, for sure. Rebecca and I were two of those lucky people.
 
 <!---
@@ -23,7 +27,7 @@ Even though he'd seen the bird dozens of times by the time Rebecca and I saw it 
 Every time the boat came back in, the line of eagerly waiting birders had grown longer. The people getting off the boat were quick to show Robbie some love.
 
 <p align="center">
-  <img src="/media/robbie.jpg">
+  <img src="/media/robbie.JPG">
 </p>
 
 The [Grey Havens Inn](https://greyhavens.com/) also graciously let birders onto their property to see the bird from afar. Thank you to Doug Hitchcox, Maine Audubon, Nick Lund, and so many others for sharing information about this bird. Truly a special occurrence.
