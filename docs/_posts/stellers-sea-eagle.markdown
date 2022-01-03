@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Chasing a Steller's Sea Eagle in Maine"
+date:   2021-01-03 17:47:30 -0400
+youtubeId: GfIpGCYui4E
+categories: projects
+---
+
 A [well-traveled](https://www.nytimes.com/2021/11/05/science/stellers-sea-eagle.html), ultra-rare Steller's Sea-Eagle appeared in Georgetown, Maine last week. In the days since, thousands of birders have flocked to the area in hopes of seeing the bird. 
 
 This past Saturday, I traveled to Maine with a friend of mine, Rebecca Ju. We got up early and drove three hours north to Georgetown, arriving at Five Islands Lobster Co. to see a crowd of birders searching the nearby islands for a large, dark silhouette. 
@@ -11,10 +19,6 @@ Around 10:45 AM, news broke that the bird was near the wharf. It perched on the 
 </p>
 
 An incredibly generous local lobsterman named Robbie Pinkham started taking groups of birders out on the water for a glimpse of the bird. Robbie didn't charging people for a spot on the boat, but he gladly accepted tips. And people were tipping him, for sure. Rebecca and I were two of those lucky people.
-
-<!---
-youtubeId: GfIpGCYui4E
--->
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
