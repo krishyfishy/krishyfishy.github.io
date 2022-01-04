@@ -9,7 +9,7 @@ A [well-traveled](https://www.nytimes.com/2021/11/05/science/stellers-sea-eagle.
 
 This past Saturday, I traveled to Maine with a friend of mine, Rebecca Ju. We got up early and drove three hours north to Georgetown, arriving at Five Islands Lobster Co. to see a crowd of birders searching the nearby islands for a large, dark silhouette. 
 
-Steller's Sea Eagles can weigh up to twenty pounds, with wingspans that can reach eight feet in length. There are only about 4,000 of these birds across the globe. They're [believed](https://www.nationalgeographic.com/animals/birds/facts/stellers-eagle) to breed in eastern Russia. This bird has steadily made its way east after an [August 2020 stop](https://www.adn.com/outdoors-adventure/2020/09/05/in-a-far-from-normal-autumn-on-the-denali-highway-a-stellers-sea-eagle-makes-a-rare-appearance/) in Alaska. This Steller's Sea Eagle is the first EVER observed in Canada or the Lower 48.
+Steller's Sea Eagles can weigh up to twenty pounds, with wingspans that can reach eight feet in length. There are only about 4,000 of these birds across the globe. Although these birds are [believed](https://www.nationalgeographic.com/animals/birds/facts/stellers-eagle) to breed in eastern Russia, this bird has steadily made its way east after an [August 2020 stop](https://www.adn.com/outdoors-adventure/2020/09/05/in-a-far-from-normal-autumn-on-the-denali-highway-a-stellers-sea-eagle-makes-a-rare-appearance/) in Alaska. This Steller's Sea Eagle is the first EVER observed in Canada or the Lower 48.
 
 Around 10:45 AM, news broke that the bird was near the wharf. It perched on the southern side of Mink Island, only visible by boat. Shortly after, the eagle flew further south to Wood Island, where it sat for a couple of hours.
 
