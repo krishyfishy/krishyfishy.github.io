@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chasing a Steller's Sea Eagle in Maine"
-date:   2021-01-03 17:47:30 -0400
+date:   2022-01-03 18:47:30 -0400
 youtubeId: GfIpGCYui4E
 categories: projects
 ---
