@@ -27,9 +27,9 @@ This definition gets at a concept that's pretty central to birding: a life list.
 
 **Spark bird:** The bird, for a birder, that ignited the passion for birding. For me it was the Osprey.
 
-**eBird:** A [citizen science database](www.ebird.org) run by the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home) that allows birders to keep track of their life list, as well as all of the birds they've seen over more specific time periods. 
+**eBird:** A [citizen science database](https://ebird.org/home) run by the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home) that allows birders to keep track of their life list, as well as all of the birds they've seen over more specific time periods. 
 
-**Pishing:** Pishing refers to when birders make sounds in an effort to attract birds. The most common sound to make is a shortened version of "pish" (hence the name), though some people may mix in other sounds (e.g. "chit"). Why pish at all? The idea is to mimic an alarm call, which would cause nearby birds to investigate the cause (the pish-er). 
+**Pishing:** Pishing refers to when birders make sounds in an effort to attract birds. The most common sound to make is a shortened version of "pish" (more like "psh" hence the name), though some people may mix in other sounds (e.g. "chit"). Why pish at all? The idea is to mimic an alarm call, which would cause nearby birds to investigate the cause (the pish-er). 
 
 This [Audubon article](https://www.audubon.org/news/birdist-rule-77-use-your-voice-attract-birds) describes pishing in greater depth, and emphasizes that pishing works best for songbirds (birds that use and respond more to alarm calls in general).
 
