@@ -5,13 +5,13 @@ date:   2022-03-30 18:47:30 -0400
 categories: projects
 ---
 
-## TL;DR
+## Summary
 
 I moved to California about six months ago. For me, a big way to get to know a new place is through the birds. 
 
 During these months, I've been birding more than ever before. That's put me in touch with a lot of new people, a lot of new birds, and a lot of new language for talking about birds. 
 
-Birding and meeting other birders has been fun, but some of the new language (jargon? lingo?) has been a little bit hard for me to understand. So I decided to start a document to keep track of the words I've learned. What follows is a glossary, of sorts, with my own interpretations of the words and links to articles or other resources that reference or touch on these words in some way.
+Birding and meeting other birders has been fun, but some of the new language (jargon? lingo?) has been a little bit hard for me to understand. I decided to start a document to keep track of the words I've learned. What follows is a glossary, of sorts, with interpretations of the words and links to articles or other resources that reference or touch on these words in some way.
 
 I'd love for this project to be one I continue updating as I learn more. If you can think of a word or abbreviation that should be added, send me a DM on [Twitter](www.twitter.com/krishmaypole) or get in touch [via email](mailto:krish.maypole@gmail.com).
 
@@ -33,15 +33,23 @@ This [Audubon article](https://www.audubon.org/news/birdist-rule-77-use-your-voi
 
 When you're deciding whether or not to pish, it's important to consider the context. If you're with other birders, you should clear it with the group rather than pishing without warning. I've seen people pish without warning before, and I've also seen people get pretty upset.
  
-**Twitching:** 
+**Twitching:** Pursuing a rare bird. Per [this Guardian article](https://www.theguardian.com/uk-news/2013/dec/31/twitching-british-birdwatching-wild-side), the term originated as a way to describe motorbike-bound birders in pursuit of rare birds.
 
-**Dipping:**
+**Dipping:** Missing out on seeing a bird (that you were looking for specifically). Another good [Audubon article](https://www.audubon.org/news/birdist-rule-81-learn-how-handle-your-first-dip) goes into more depth here. 
 
-**Stringing:**
+**Stringer:** A term that refers to a birder that caves to the impulse of reporting something rare too quickly. In other words, if a stringer were to see a bird that *could* have been a rare bird, they are likely to report it as rare without questioning or interrogating the sighting any further. 
 
-**Wing bars:**
+I think there's a "(fish story)[https://www.dictionary.com/browse/fish-story#:~:text=An%20improbable%2C%20boastful%20tale%2C%20as,Early%201800s%5D]" parallel to be drawn here. An [American Birding Association Blog](https://blog.aba.org/2017/07/on-stringing.html#:~:text=More%20often%20a%20stringer%20is,their%20observational%20abilities%20and%20constraints.) dives deeper.
 
-**Supercilium:**
+**Banding codes:** These are typically four-letter abbreviations of common bird names (e.g. American Robin is AMRO) constructed according to a [specific set of rules](https://www.carolinabirdclub.org/bandcodes.html) based on the specifics of the name. 
+
+During the recent public fascination with Wordle, a bird banding code version was born: [BRDL](brdl.alex.gd).
+
+**Patch:** A place near home where one goes regularly. Again, [Audubon](https://www.audubon.org/news/want-training-ground-your-birding-skills-try-patch-birding) has a nice article on patch birding.
+
+I've been doing a lot of patch birding in CA to get to know the area.
+
+**Mega:** Used by birders to describe a sighting that was extremely rare. I see people put this as comments in their eBird checklists.
 
 ### Abbreviations
 
@@ -55,8 +63,10 @@ This [resource](https://sora.unm.edu/sites/default/files/27-43%20OB%20Vol%2018%2
 
 **Recs:** Short for "rectrices," which are actually just tail feathers.
 
+**FO:** "Flyover" is used to describe birds that pass by an area in which you're birding.
+
+**FOY:** "First of Year" is used in reference to the first individual of a particular bird species that a birder has seen in a calendar year.
 
 ## Other resources
 
-
-
+Other folks have put together good resources for explaining bird-related terms and jargon. A couple that I've found are [this one](https://madisonaudubon.org/blog/2020/8/16/birding-lingo) by Caitlyn Schuchhardt of Madison Audubon and [this one]() from Wikipedia.
