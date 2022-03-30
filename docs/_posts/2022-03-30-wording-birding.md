@@ -45,7 +45,7 @@ I think there's a ["fish story"](https://www.dictionary.com/browse/fish-story#:~
 
 **Banding codes:** These are typically four-letter abbreviations of common bird names (e.g. American Robin is AMRO) constructed according to a [specific set of rules](https://www.carolinabirdclub.org/bandcodes.html) based on the specifics of the name. 
 
-During the recent public fascination with Wordle, a bird banding code version was born: [BRDL](brdl.alex.gd). 
+During the recent public fascination with Wordle, a bird banding code version was born: [BRDL](https://brdl.alex.gd/). 
 
 **Patch:** A place near home where one goes regularly. Again, [Audubon](https://www.audubon.org/news/want-training-ground-your-birding-skills-try-patch-birding) has a nice article on patch birding.
 
