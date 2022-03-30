@@ -11,7 +11,7 @@ I moved to California about six months ago. For me, a big way to get to know a n
 
 During these months, I've been birding more than ever before. That's put me in touch with a lot of new people, a lot of new birds, and a lot of new language for talking about birds. 
 
-Birding and meeting other birders has been fun, but some of the new language (jargon? lingo?) has been a little bit hard for me to understand. I decided to start a document to keep track of the words I've learned. What follows is a glossary, of sorts, with interpretations of the words and links to articles or other resources that reference or touch on these words in some way.
+I've really enjoyed birding and meeting other birders, but some of the new language (jargon? lingo?) has been a little bit hard for me to understand. I decided to start a document to keep track of the words I've learned. What follows is a glossary, of sorts, with interpretations of the words and links to articles or other resources that reference or touch on these words in some way.
 
 I'd love for this project to be one I continue updating as I learn more. If you can think of a word or abbreviation that should be added, send me a DM on [Twitter](www.twitter.com/krishmaypole) or get in touch [via email](mailto:krish.maypole@gmail.com).
 
