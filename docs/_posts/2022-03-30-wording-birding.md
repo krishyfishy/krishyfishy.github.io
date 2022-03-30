@@ -55,7 +55,7 @@ I've been doing a lot of patch birding in CA to get to know the area.
 
 ### Abbreviations
 
-**LBJ:** "Little Brown Job" is an apt monicker for drab songbirds (I'm looking at you, wrens and sparrows).
+**LBJ:** "Little Brown Job" is an apt moniker for drab songbirds (I'm looking at you, wrens and sparrows).
 
 **HY:** "Hatch Year" is a banding code that refers to an individual in its first calendar year of life. 
 
