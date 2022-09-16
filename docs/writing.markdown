@@ -4,6 +4,9 @@ title: Writing
 permalink: /writing/
 ---
 
+### [Point of Care](https://pointofcare.substack.com)
+* [Tuva Health and the future of claims analytics](https://pointofcare.substack.com/p/tuva-health-and-the-future-of-claims)
+
 ### Blogs
 
 <ul>
